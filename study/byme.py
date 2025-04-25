@@ -1,0 +1,2 @@
+﻿def sign():
+    print("test")
